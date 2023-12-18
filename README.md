@@ -1,7 +1,8 @@
 # LukeCondren
 ## Personal Profile
 
-Currently a part-time student at ATU Galway-Mayo learning software development. My current background is in Accounting and Finance. I have a great interest in learning about code and computers and I am keen to keep growing on these skills. 
+Currently a part-time student at ATU Galway-Mayo learning software development. My current background is in Accounting and Finance. I have a great interest in learning about code and how computers work and I am keen to keep growing on these skills and devlop these skills further. 
+My goal with coding to get an understanding of all the different types of languages such as: Python, C++,C#, etc.
 
 ## Skills
 
