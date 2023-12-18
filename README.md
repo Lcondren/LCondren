@@ -6,7 +6,7 @@ My goal with coding to get an understanding of all the different types of langua
 
 ## Skills
 
-- Development Languages:**Java** Skills and experience working with **JUnit, HTML, CSS, JavaScript, Typescript, Angular, Ionic and SQL**.
+- Development Languages:**Java** Skills and experience working with **HTML, CSS, JavaScript, Typescript, Angular, Ionic and SQL**.
 - Operating Systems: Linux & mainly Windows.
 - Communication: Excellent communication skills both verbal and written.
 - Teamwork: Highly experienced in leading and working collaboratively as a team.
