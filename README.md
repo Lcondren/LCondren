@@ -1,8 +1,8 @@
 # Luke Condren
 ## Personal Profile
 
-Currently a part-time student at ATU Galway-Mayo learning software development. My background is in Accounting and Finance. I work as a Fund Accountant. I have a great interest in learning about code and how computers work and I am keen to keep growing on these skills and devlop these skills further. 
-My goal with coding to get an understanding of all the different types of languages such as: VBA, Python, C++,C#, etc.
+I am a recent graduate at ATU Galway-Mayo learning software development. My background is in Accounting and Finance. I work as a Fund Accountant. I have a great interest in learning about code and how computers work and I am keen to keep growing on these skills and devlop these skills further. 
+My goal with coding to get an understanding of all the different types of languages such as: Python, C++,C#, etc.
 
 ## Skills
 
@@ -15,8 +15,3 @@ My goal with coding to get an understanding of all the different types of langua
 - Decision Making & Problem Solving.
 
 
-
-## I’m currently working on ...
-
-1.  A **Mobile Application** to write an application for the user to see what the exchange rates, weather and popluation of different countries around the world.
-2. A **Operating System website** to write a wordpress website on my choosing of an operating system and talk about how the operating system works in detail.
